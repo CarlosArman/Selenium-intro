@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite parallel="methods" thread-count="3" name="Suite">
+    <test name="Test">
+   <!--     <groups>
+            <run>
+                <iclude name="google" />
+            </run>
+        </groups>-->
+        <classes>
+            <class name="Examples.NewTest"/>
+        </classes>
+    </test>
+</suite>
